@@ -13,7 +13,7 @@
   },
   "publisher": "sickodewebdesign",
   "repository": "https://github.com/sickodewebdesign/sk-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -29,7 +29,6 @@
     "Sic Kode Web Design Git Extension Pack"
   ],
   "extensionPack": [
-    "donjayamanne.githistory",
     "github.copilot",
     "github.vscode-pull-request-github",
     "eamodio.gitlens"
