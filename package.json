@@ -1,7 +1,7 @@
 {
   "name": "sk-git",
   "displayName": "SK Git",
-  "description": "Sic Kode Web Design Git Extension Pack",
+  "description": "Sic Kode Git Extension Pack",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#3B82F6",
@@ -11,9 +11,9 @@
     "name": "Sergiu Waxmann",
     "email": "sergiu@sickode.com"
   },
-  "publisher": "sickodewebdesign",
+  "publisher": "sickode",
   "repository": "https://github.com/sickodewebdesign/sk-git",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -26,6 +26,10 @@
     "Sic Kode",
     "Sic Kode Web Design",
     "SK Git",
+    "Sic Kode Git",
+    "Sic Kode Web Design Git",
+    "SK Git Extension Pack",
+    "Sic Kode Git Extension Pack",
     "Sic Kode Web Design Git Extension Pack"
   ],
   "extensionPack": [
